@@ -73,12 +73,6 @@
         "{projectRoot}/.storybook/**/*",
         "{projectRoot}/tsconfig.storybook.json"
       ]
-    },
-    "build": {
-      "cache": true
-    },
-    "test": {
-      "cache": true
     }
   },
   "plugins": [
